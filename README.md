@@ -1,1 +1,1 @@
-# Blood_bank_mysql
+# Blood_bank_mysql_python
